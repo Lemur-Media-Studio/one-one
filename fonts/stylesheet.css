@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'SuperFly One';
+    src: url('SuperFlyOne.eot');
+    src: url('SuperFlyOne.eot?#iefix') format('embedded-opentype'),
+        url('SuperFlyOne.woff2') format('woff2'),
+        url('SuperFlyOne.woff') format('woff'),
+        url('SuperFlyOne.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BentonSans';
+    src: url('BentonSans-Medium.eot');
+    src: url('BentonSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('BentonSans-Medium.woff2') format('woff2'),
+        url('BentonSans-Medium.woff') format('woff'),
+        url('BentonSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BentonSans Book';
+    src: url('BentonSans-Book.eot');
+    src: url('BentonSans-Book.eot?#iefix') format('embedded-opentype'),
+        url('BentonSans-Book.woff2') format('woff2'),
+        url('BentonSans-Book.woff') format('woff'),
+        url('BentonSans-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BentonSans Black';
+    src: url('BentonSans-Black.eot');
+    src: url('BentonSans-Black.eot?#iefix') format('embedded-opentype'),
+        url('BentonSans-Black.woff2') format('woff2'),
+        url('BentonSans-Black.woff') format('woff'),
+        url('BentonSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+
+    RewriteCond %{HTTPS} off
+    RewriteRule (.*) https://one-oneconsulting.com/$1 [R=301,L,QSA]
+
+</IfModule>
